@@ -1,4 +1,4 @@
-const anniversaryDate = new Date(2025, 0, 25, 18, 0, 0);
+const anniversaryDate = new Date(2025, 0, 25, 0, 0, 0);
 
 function updateCounter() {
     const now = new Date();
